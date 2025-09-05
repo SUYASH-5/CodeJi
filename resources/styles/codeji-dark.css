@@ -1,0 +1,50 @@
+.code-area {
+    background-color: #2b2b2b;
+    -fx-background-color: #2b2b2b;
+    font-family: Consolas, "Courier New", monospace;
+    -fx-font-family: Consolas, "Courier New", monospace;
+    font-size: 20px;
+    -fx-font-size: 20px;
+}
+
+.keyword {
+    color: #569CD6;
+    fill: #569CD6;
+    -fx-fill: #569CD6;
+    font-weight: bold;
+    -fx-font-weight: bold;
+}
+
+.operator {
+    color: #C586C0;
+    fill: #C586C0;
+    -fx-fill: #C586C0;
+    font-weight: bold;
+    -fx-font-weight: bold;
+}
+
+.string {
+    color: #CE9178;
+    fill: #CE9178;
+    -fx-fill: #CE9178;
+}
+
+.number {
+    color: #B5CEA8;
+    fill: #B5CEA8;
+    -fx-fill: #B5CEA8;
+}
+
+.comment {
+    color: #6A9955;
+    fill: #6A9955;
+    -fx-fill: #6A9955;
+    font-style: italic;
+    -fx-font-style: italic;
+}
+
+.id {
+    color: #9CDCFE;
+    fill: #9CDCFE;
+    -fx-fill: #9CDCFE;
+}

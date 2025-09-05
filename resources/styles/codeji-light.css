@@ -1,0 +1,50 @@
+.code-area {
+    background-color: honeydew;
+    -fx-background-color: honeydew;
+    font-family: Consolas, "Courier New", monospace;
+    -fx-font-family: Consolas, "Courier New", monospace;
+    font-size: 20px;
+    -fx-font-size: 20px;
+}
+
+.keyword {
+    color: fuchsia;
+    fill: fuchsia;
+    -fx-fill: fuchsia;
+    font-weight: bold;
+    -fx-font-weight: bold;
+}
+
+.operator {
+    color: red;
+    fill: red;
+    -fx-fill: red;
+    font-weight: bold;
+    -fx-font-weight: bold;
+}
+
+.string {
+    color: darkturquoise;
+    fill: darkturquoise;
+    -fx-fill: darkturquoise;
+}
+
+.number {
+    color: darkmagenta;
+    fill: darkmagenta;
+    -fx-fill: darkmagenta;
+}
+
+.comment {
+    color: gray;
+    fill: gray;
+    -fx-fill: gray;
+    font-style: italic;
+    -fx-font-style: italic;
+}
+
+.id {
+    color: dodgerblue;
+    fill: dodgerblue;
+    -fx-fill: dodgerblue;
+}
