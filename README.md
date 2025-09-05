@@ -51,6 +51,13 @@ Here are some screenshots of the CodeJi IDE in action:
 
 ---
 
+## Syntax to code
+
+<img width="423" height="657" alt="image" src="https://github.com/user-attachments/assets/36d9602d-fb23-4756-b839-b70c625fd0ad" />
+
+
+---
+
 ## Setup & Run
 
 1. **Clone the repository**
