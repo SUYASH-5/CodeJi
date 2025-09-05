@@ -1,0 +1,16 @@
+pataHai score rakhDo 0 thikHai
+padhle score thikHai
+
+agar (score bada 100)
+    likhna"jhuth mat bol" thikHai
+nahi_agar (score bada_ya_barabar 90)
+    likhna "Wah bhai! Topper ban gaya!" thikHai
+nahi_agar (score bada_ya_barabar 75)
+    likhna "Badiya kiya re, first class!" thikHai
+nahi_agar (score bada_ya_barabar 60)
+    likhna "Theek thaak pass ho gaya!" thikHai
+nahi_agar (score bada_ya_barabar 35)
+    likhna "Bas kaise bhi karke pass hua." thikHai
+nahi_to
+    likhna "Tu fail ho gaya re bhai!" thikHai
+khatm

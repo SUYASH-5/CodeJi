@@ -1,0 +1,6 @@
+pataHai counter rakhDo 0 thikHai
+
+jabtak (counter chhota 5) 
+    likhna "Counter is: ", counter thikHai
+    counter rakhDo counter jodwa 1 thikHai
+khatm
